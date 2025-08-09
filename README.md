@@ -15,8 +15,8 @@ Target audience: language learners, casual users who enjoy playful interfaces.
 | Text on Brown         | #F7F0E7  | Light cream         |
 | Text on Beige         | #3B221C  | Dark brown          |
 
-**Palette preview:**  
-![Color Palette](https://drive.google.com/file/d/1JNCGZwB1tNeUPMJ9fDxSNBIvcEHOGi3d/view?usp=drivesdk)
+- **Palette preview:**  
+  -[Color Palette](https://drive.google.com/file/d/1JNCGZwB1tNeUPMJ9fDxSNBIvcEHOGi3d/view?usp=drivesdk)
 
 ## Mascot
 - **Description:** Kawaii cat character, cream/beige fur, purple scarf, rosy cheeks, large glossy eyes.  
@@ -32,8 +32,8 @@ WhatsApp-like chat layout with:
 - Sticker slots for cat character
 - Playful yet clean UI
 
-**Example mockup:**  
-![Chat Example](https://drive.google.com/file/d/1JDqnsfMK2lyU5-VHIKl3-nlzEm80SAvZ/view?usp=drivesdk)
+- **Example mockup:**  
+  -[Chat Example](https://drive.google.com/file/d/1JDqnsfMK2lyU5-VHIKl3-nlzEm80SAvZ/view?usp=drivesdk)
 
 ## Tech Stack
 - **Frontend:** Expo (React Native + TypeScript)
