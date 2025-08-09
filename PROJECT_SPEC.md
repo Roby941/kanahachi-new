@@ -1,4 +1,4 @@
-* Kanahachi – Spaced Repetition Game / First Chat App
+# Kanahachi – Spaced Repetition Game / First Chat App
 
 ## Overview
 A warm, cozy chat-style application featuring a kawaii cat mascot.  
